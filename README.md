@@ -8,7 +8,7 @@ Aspiring Full Stack Developer
 * 🖥️  See my portfolio at [My Portfolio](http://gorgeous-boba-c5e26b.netlify.app)
 * ✉️  You can contact me at [mehakmattoo7@gmail.com](mailto:mehakmattoo7@gmail.com)
 * 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on frontend projects
 * ⚡  I love to read but until now I have only read 65 books.
 
 ### Skills
