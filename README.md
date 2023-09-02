@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full Stack Developer
 -----------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [My Portfolio](http://gorgeous-boba-c5e26b.netlify.app)
 * ✉️  You can contact me at [mehakmattoo7@gmail.com](mailto:mehakmattoo7@gmail.com)
 * 🧠  I'm learning MERN stack
