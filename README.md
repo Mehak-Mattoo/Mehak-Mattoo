@@ -7,9 +7,9 @@ Aspiring Full Stack Developer
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [My Portfolio](http://gorgeous-boba-c5e26b.netlify.app)
 * ✉️  You can contact me at [mehakmattoo7@gmail.com](mailto:mehakmattoo7@gmail.com)
-* 🧠  I'm learning MERN stack
+* 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on frontend projects
-* ⚡  I love to read but until now I have only read 65 books.
+* ⚡  I love reading but until now I have only read 65 books:(
 
 ### Skills
 
