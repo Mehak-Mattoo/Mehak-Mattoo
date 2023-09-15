@@ -11,8 +11,7 @@ Aspiring Full Stack Developer
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  I love reading but until now I have only read 65 books:(
 
-![](<iframe src="https://giphy.com/embed/e5zHi5hgalk1sLVI1m" width="480" height="412" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-steve-carell-e5zHi5hgalk1sLVI1m">via GIPHY</a></p>)
-
+![](https://media.giphy.com/media/e5zHi5hgalk1sLVI1m/giphy.gif)
 ### Skills
 
 
