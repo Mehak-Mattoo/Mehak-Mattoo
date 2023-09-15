@@ -11,7 +11,7 @@ Aspiring Full Stack Developer
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  I love reading but until now I have only read 65 books:(
 
-![](https://media.giphy.com/media/e5zHi5hgalk1sLVI1m/giphy.gif)
+![](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
 ### Skills
 
 
