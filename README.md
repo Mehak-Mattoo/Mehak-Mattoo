@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="penguin" width="250" height="200">
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [My Portfolio](http://gorgeous-boba-c5e26b.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](https://mehak-mattoo.netlify.app)
 * ✉️  You can contact me at [mehakmattoo7@gmail.com](mailto:mehakmattoo7@gmail.com)
 * 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on frontend projects
