@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Full Stack Developer
 -----------------------------
-<div style= "display= flex"> 
+ <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="penguin" width="250" height="200">
 
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [My Portfolio](http://gorgeous-boba-c5e26b.netlify.app)
@@ -12,8 +12,7 @@ Aspiring Full Stack Developer
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  I love reading but until now I have only read 65 books:(
 
- <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="penguin" width="250" height="200">
-</div>
+
 
 ![](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
 ### Skills
