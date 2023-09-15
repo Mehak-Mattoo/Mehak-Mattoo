@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Full Stack Developer
 -----------------------------
+<img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="penguin" width="200" height="300">
+
 ![](https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif  width="280" height="480") 
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [My Portfolio](http://gorgeous-boba-c5e26b.netlify.app)
