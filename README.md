@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehak Mattoo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mehak Mattoo
 ====================================================================================================================================
 
  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="penguin" width="250" height="200">
@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [mehakmattoo7@gmail.com](mailto:mehakmattoo7@gmail.com)
 * 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on frontend projects
-* ⚡  I love reading but until now I have only read 65 books:(
+* ⚡  I love reading but until now I have only read 66 books:(
 
 
 
