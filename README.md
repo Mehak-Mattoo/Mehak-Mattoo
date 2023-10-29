@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [mehakmattoo7@gmail.com](mailto:mehakmattoo7@gmail.com)
 * 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on frontend projects
-* ⚡  I love reading but until now I have only read 66 books:(
+* ⚡  I love reading but until now I have only read 67 books:(
 
 
 
