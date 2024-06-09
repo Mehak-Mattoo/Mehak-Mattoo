@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="penguin" width="250" height="200">
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [My Portfolio](https://mehak-mattoo.netlify.app)
-* ✉️  You can contact me at [mehakmattoo7@gmail.com](mailto:mehakmattoo7@gmail.com)
+* 🖥️  See my portfolio at [My Portfolio](https://mehak-mattoo-3d-portfolio.netlify.app/)
+* ✉️  You can contact me at [mehakmattoo.info@gmail.com](mailto:mehakmattoo.info@gmail.com)
 * 🧠  I'm currently learning DSA
 * 🤝  I'm open to collaborating on frontend projects
-* ⚡  I love reading but until now I have only read 78 books:(
+* ⚡  I love reading but until now I have only read 80 books:(
 
 
 
