@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="penguin" width="250" height="200">
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [My Portfolio](https://my-3d-portfolio-teal.vercel.app/)
+* 🖥️  See my portfolio at <a href="https://my-3d-portfolio-teal.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+
 * ✉️  You can contact me at [mehakmattoo.info@gmail.com](mailto:mehakmattoo.info@gmail.com)
 * 🧠  I'm currently working on open source projects
 * 🤝  I'm open to collaborating on frontend projects
-* ⚡  I love reading but until now I have only read 82 books:(
+* ⚡  I love reading but until now I have only read 83 books:(
 
 
 
