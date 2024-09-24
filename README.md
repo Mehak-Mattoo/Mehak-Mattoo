@@ -21,7 +21,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ![](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
-<iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p><iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p>
 
 ### Socials
 
