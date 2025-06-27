@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at <a href="https://my-3d-portfolio-teal.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 
 * ✉️  You can contact me at [mehakmattoo.info@gmail.com](mailto:mehakmattoo.info@gmail.com)
-* 🧠  I'm currently working as a Full Stack Developer at ScriptSolve
+* 🧠  I'm currently working as a Frontend Developer at Studio137
 * 🤝  I'm open to collaborating on full stack projects
 * ⚡  I love reading but until now I have only read 90 books:(
 
