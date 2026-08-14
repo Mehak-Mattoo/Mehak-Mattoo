@@ -7,9 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at <a href="https://mehak-mattoo-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 
 * ✉️  You can contact me at [mehakmattoo.info@gmail.com](mailto:mehakmattoo.info@gmail.com)
-* 🧠  I'm currently working as a Lead Frontend Developer at Evolve AI
+* 🧠  I'm currently working as a SDE-1 at Nat Habit
 * 🤝  I'm open to collaborating on full stack projects
-* ⚡  I love reading but until now I have only read 101 books:(
+* ⚡  I love reading but until now I have only read 102 books:(
 
 
 
